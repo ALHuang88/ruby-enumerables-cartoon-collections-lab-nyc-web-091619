@@ -27,7 +27,11 @@ end
 long_planeteer_calls(short_words)
  long_planeteer_calls(assorted_words)
  
-def find_the_cheese# code an argument here
-  # the array below is here to help
+
+snacks = ["crackers", "gouda", "thyme"]
+soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+ingredients = ["garlic", "bread", "rosemary"]
+def find_the_cheese(array)
+  
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
